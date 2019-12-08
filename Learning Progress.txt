@@ -1,0 +1,4 @@
+6/12/2019:
+
+Intro into Python Programming
+Intro of Git and GitHub
